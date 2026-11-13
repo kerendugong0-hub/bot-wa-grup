@@ -1,3 +1,4 @@
+// v2 - menu baru PIP
 const { Client, LocalAuth } = require('whatsapp-web.js');
 
 const PHONE_NUMBER = '6281460304191';
